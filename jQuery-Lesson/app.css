@@ -3,3 +3,8 @@
   height: 200px;
   width: 200px;
 }
+
+.box1-ext {
+  border: 10px solid black;
+}
+/* マウスオーバー時のCSS（class）をあらかじめ定義しておき、マウスカーソルの状況に応じて、そのCSSを追加（または解除）するようにapp.jsに設定する */
